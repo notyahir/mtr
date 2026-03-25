@@ -1,7 +1,7 @@
 # MTR — Music Technology Research
 
-**Yahir | MIT Music Technology & Computation MS**
-**Advisor:** Paris Smaragdis (AERA Lab) | **Co-Advisor:** Anna Huang (Google DeepMind)
+**Yahir - MIT Music Technology & Computation MS**
+**Advisor:** Paris Smaragdis | **Co-Advisor:** Anna Huang
 
 ---
 
@@ -64,5 +64,7 @@ Full workflow instructions: `docs/WORKFLOW.md`
 ## Current Status
 
 **Phase:** Exploratory — new research direction being identified
+
 **Active task:** Field survey of music AI / MIR research landscape
+
 **Previous work:** TriMET and TriMET-drum (see `previous-research/`)
